@@ -1,0 +1,6 @@
+{
+  "name": "Национальная Модель Внедрения Прикладного ИИ",
+  "description": "Национальная программа решений для повышения производительности (PSG) на базе ИИ в Узбекистане — IT Park Uzbekistan, Указ № ПП-358",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
